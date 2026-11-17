@@ -1,0 +1,9 @@
+input: 1280 event
+koreksi tanggal (selisih >3 hari dari tanggal pesan): 27 event
+respons negatif dijadikan NULL: 10; respons valid: 1135
+kelurahan kanonik: 1023 event | luar kota: 34 | tidak diketahui: 223
+label_usulan: 1=170 0=965 NULL=145; outlier >180 menit: 17
+respons tepat 15 menit (dihitung tepat waktu): 174
+klasifikasi.csv: 1135 baris (event tanpa label valid dikeluarkan dari model, bukan diisi 0)
+titik_geo.csv: 207 baris, di antaranya berlabel: 195
+kelurahan_profil.csv: 17 kelurahan, layak klaster (n_event>=10 dan n_valid>=8): 16

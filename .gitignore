@@ -1,0 +1,42 @@
+# ============================================================
+# 1. PRIVASI (WAJIB): data mentah memuat nomor HP warga dan nama pegawai
+# ============================================================
+_chat.txt
+data/raw_private/
+*.ogg
+*.7z
+dist/
+
+# ============================================================
+# 2. Dokumen kuliah dan dokumen internal tim (tidak dipublikasikan)
+#    Panduan unggah hanya mewajibkan SOURCE CODE yang publik.
+#    Laporan akhir dikumpulkan lewat Google Form, bukan GitHub.
+# ============================================================
+# PDF di folder utama: RTM, panduan unggah, proposal
+/*.pdf
+# laporan akhir dan berkas antaranya
+reports/FinPD_*
+reports/_*
+# bahan belajar dan video internal tim
+docs/ebook/
+docs/EBOOK_*
+docs/SKRIP_VIDEO_*
+docs/NASKAH_VIDEO.md
+docs/PANDUAN_PUSH_GITHUB.md
+
+# ============================================================
+# 3. OPSI KETAT: jika DPKP/dosen TIDAK mengizinkan data (walau sudah anonim)
+#    dipublikasikan, hapus tanda # pada tiga baris berikut.
+#    Konsekuensi: skrip 04 dst. dan tes yang membaca data tidak bisa dijalankan orang luar.
+# ============================================================
+# data/mentah_anonim/
+# data/siap_mining/
+# models/
+
+# ============================================================
+# 4. Berkas sementara
+# ============================================================
+__pycache__/
+.pytest_cache/
+.claude/
+docs/PESAN_*

@@ -1,0 +1,11 @@
+# Inti analisis, model, dan aplikasi (Python 3.10). Versi dikunci agar hasil dan model terlatih dapat dimuat ulang.
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.7
+tabulate==0.10.0
+joblib==1.6.0
+streamlit==1.52.2
+pytest==9.2.0
+py7zr==1.1.4

@@ -1,0 +1,4 @@
+# Opsional: hanya untuk membangun dokumen laporan/e-book dan tangkapan layar (dokumennya sendiri tidak ada di repositori publik).
+-r requirements.txt
+markdown==3.10
+playwright==1.65.2

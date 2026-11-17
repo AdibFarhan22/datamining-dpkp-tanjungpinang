@@ -1,0 +1,1 @@
+Dari 105 evakuasi tawon/lebah berlabel, 41 (39,0%) terlambat; median jam laporan diterima untuk yang responsnya > 60 menit adalah pukul 10:00. Tanpa tawon/lebah, tingkat terlambat seluruh data turun menjadi 12,5% (1.030 kejadian). Tawon/lebah menyumbang 24,1% dari seluruh kejadian terlambat.

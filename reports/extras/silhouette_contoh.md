@@ -1,0 +1,1 @@
+Contoh titik ke-1 (klaster 2): jarak rata-rata ke titik lain dalam klaster **a = 2,14 km**; jarak rata-rata ke klaster terdekat lain **b = 5,56 km**. s = (b - a) / max(a, b) = (5,56 - 2,14) / 5,56 = **0,614**. Nilai rata-rata seluruh titik (k = 3) adalah 0,446.
