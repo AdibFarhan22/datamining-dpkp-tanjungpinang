@@ -1,4 +1,4 @@
-"""Aplikasi pendukung keputusan DPKP Tanjungpinang (prototipe). Jalankan: streamlit run app/app.py"""
+"""Aplikasi pendukung keputusan DPKP Tanjungpinang (prototipe). Jalankan: python -m streamlit run app/app.py"""
 import os
 import sys
 

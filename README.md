@@ -58,7 +58,7 @@ Rincian lengkap: [reports/klasifikasi_hasil.md](reports/klasifikasi_hasil.md), [
 ## Aplikasi prototipe
 
 ```bash
-streamlit run app/app.py
+python -m streamlit run app/app.py
 ```
 
 Pengguna memilih jenis kejadian, kelurahan, pos, regu, armada, jam, dan hari. Aplikasi menampilkan skor, tingkat risiko, dan konteks historis.
