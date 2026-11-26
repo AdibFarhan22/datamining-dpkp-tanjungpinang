@@ -132,9 +132,9 @@ Tahap 01–03 membutuhkan ekspor chat mentah yang **tidak dipublikasikan** dan h
 
 Jika Anda menemukan data yang tampak mengidentifikasi seseorang, mohon laporkan lewat *issue* agar segera diperbaiki.
 
-## Pemakaian AI
+## Catatan proses
 
-Pengembangan kode dan analisis dibantu **Claude Code (Anthropic)**. Seluruh keputusan, temuan, dan koreksi kesalahan yang terjadi selama pengerjaan, termasuk kesalahan pada pembaca pesan dan berkas data yang rusak karena Excel, dicatat apa adanya di [LOG.md](LOG.md).
+Seluruh keputusan, temuan, dan koreksi kesalahan yang terjadi selama pengerjaan, termasuk kesalahan pada pembaca pesan dan berkas data yang rusak karena Excel, dicatat apa adanya di [LOG.md](LOG.md).
 
 ## Tim
 
